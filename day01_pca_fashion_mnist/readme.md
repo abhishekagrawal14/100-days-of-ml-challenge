@@ -2,7 +2,7 @@
 
 Practiced PCA for dimensionality reduction on Fashion MNIST dataset.
 
-🔗 Kaggle Notebook: https://www.kaggle.com/code/superviseddeep/pca-prac
+🔗 Kaggle Notebook: https://www.kaggle.com/code/superviseddeep/pca-prac1
 
 ## What I did
 - Standardized features
