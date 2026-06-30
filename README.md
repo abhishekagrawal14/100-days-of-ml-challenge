@@ -13,5 +13,8 @@ Build strong ML fundamentals and a visible, consistent track record while workin
 Day 01 ---
         Topic -> PCA on Fashion MNIST
 
+Day 02 ---
+        Topic -> Implemented KNN from scratch
+
 
 ⭐ Feel free to fork and start your own challenge.
