@@ -18,3 +18,5 @@ Day 02 ---
 
 
 ⭐ Feel free to fork and start your own challenge.
+
+Last updated: Day 02
