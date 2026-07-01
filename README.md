@@ -17,6 +17,10 @@ Day 02 ---
         Topic -> Implemented KNN from scratch
 
 
+Day 03 ---
+        Topic -> Implemented agglomerative clustering from scratch and practised using sklearn
+
+
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 02
+Last updated: Day 03
