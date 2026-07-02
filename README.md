@@ -20,6 +20,9 @@ Day 02 ---
 Day 03 ---
         Topic -> Implemented agglomerative clustering from scratch and practised using sklearn
 
+Day 04 ---
+        topic -> Completed assignments on agglomerative clustering from countries dataset
+
 
 ⭐ Feel free to fork and start your own challenge.
 
