@@ -16,14 +16,16 @@ Day 01 ---
 Day 02 ---
         Topic -> Implemented KNN from scratch
 
-
 Day 03 ---
         Topic -> Implemented agglomerative clustering from scratch and practised using sklearn
 
 Day 04 ---
         topic -> Completed assignments on agglomerative clustering from countries dataset
 
+Day 05 --- 
+        topic -> Implemented DBSCAN from scratch and practised on get moons datset.
+
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 03
+Last updated: Day 05
