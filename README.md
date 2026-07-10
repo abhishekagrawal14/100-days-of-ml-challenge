@@ -25,6 +25,8 @@ Day 04 ---
 Day 05 --- 
         topic -> Implemented DBSCAN from scratch and practised on get moons datset.
 
+# UNSUPERVISED LEARNING COMPLETES HERE WE WILL START MODEL EVAULATION FROM DAY 06 .
+
 Day 06 --- 
         topic -> studied regression metrics like MAE , MSE , RMSE , R2 SCORE and ADJUSTED R2 SCORE .
 
