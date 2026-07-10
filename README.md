@@ -25,7 +25,9 @@ Day 04 ---
 Day 05 --- 
         topic -> Implemented DBSCAN from scratch and practised on get moons datset.
 
+Day 06 --- 
+        topic -> studied regression metrics like MAE , MSE , RMSE , R2 SCORE and ADJUSTED R2 SCORE .
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 05
+Last updated: Day 06
