@@ -33,6 +33,13 @@ Day 06 ---
 Day 07 --- 
         Topic -> studied and implemented classification metrics like Accuracy , Preecision , Recall,F1 score  and Classification report .
 
+# PROJECTS
+
+Day 08--- 
+        Topic -> completed content wise movie recommendation project in notebook deplpoyment pending .
+
+
+
 ⭐ Feel free to fork and start your own challenge.
 
 Last updated: Day 07
