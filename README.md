@@ -20,16 +20,19 @@ Day 03 ---
         Topic -> Implemented agglomerative clustering from scratch and practised using sklearn
 
 Day 04 ---
-        topic -> Completed assignments on agglomerative clustering from countries dataset
+        Topic -> Completed assignments on agglomerative clustering from countries dataset
 
 Day 05 --- 
-        topic -> Implemented DBSCAN from scratch and practised on get moons datset.
+        Topic -> Implemented DBSCAN from scratch and practised on get moons datset.
 
-# UNSUPERVISED LEARNING COMPLETES HERE WE WILL START MODEL EVAULATION FROM DAY 06 .
+# UNSUPERVISED LEARNING COMPLETES HERE .  WE WILL START MODEL EVAULATION FROM DAY 06 .
 
 Day 06 --- 
-        topic -> studied regression metrics like MAE , MSE , RMSE , R2 SCORE and ADJUSTED R2 SCORE .
+        Topic -> studied regression metrics like MAE , MSE , RMSE , R2 SCORE and ADJUSTED R2 SCORE .
+
+Day 07 --- 
+        Topic -> studied and implemented classification metrics like Accuracy , Preecision , Recall,F1 score  and Classification report .
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 06
+Last updated: Day 07
