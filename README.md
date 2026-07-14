@@ -41,7 +41,7 @@ Day 08---
 Day 10--- 
         Topic -> deployed movie recommender project end-to-end (TMDB API for posters, custom Streamlit UI, secrets via .env, large model file hosted on Google Drive) - project live now.
         
-        link : https://movie-recommender-abhishek.streamlit.app
+        visit here : https://movie-recommender-abhishek.streamlit.app/
 
 # EXTRA PRACTISE 
 
