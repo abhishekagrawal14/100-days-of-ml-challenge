@@ -9,8 +9,8 @@ TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # local paths of files 
-MOVIE_LIST_PATH = "models/movies.pkl"
-SIMILARITY_PATH = "models/similarity.pkl"
+MOVIE_LIST_PATH = os.path.join(BASE_DIR, "models", "movies.pkl")
+SIMILARITY_PATH = os.path.join(BASE_DIR, "models", "similarity.pkl")
 
 # google drive link of similarity_path as its large 
 
