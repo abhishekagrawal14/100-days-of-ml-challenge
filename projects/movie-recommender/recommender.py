@@ -5,6 +5,9 @@ import gdown
 from config import MOVIE_LIST_PATH, SIMILARITY_PATH, SIMILARITY_GDRIVE_URL
 from utils import fetch_posters
 
+# Ensure the models folder exists
+os.makedirs(os.path.dirname(SIMILARITY_PATH), exist_ok=True)
+
 if not os.path.exists(SIMILARITY_PATH):
      gdown.download(SIMILARITY_GDRIVE_URL, SIMILARITY_PATH, quiet=False)
 
