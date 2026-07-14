@@ -4,7 +4,7 @@ A content-based movie recommendation web app — pick a movie you like, and get 
 
 ![Demo](assets/demo.gif)
 
-🔗 **Live App:** [Add your Streamlit Cloud link here once deployed]
+🔗 **Live App:** https://movie-recommender-abhishek.streamlit.app/
 📓 **Original Notebook (Kaggle):** [content-wise-movie-reccomendations](https://www.kaggle.com/code/superviseddeep/content-wise-movie-reccomendations)
 
 ---
@@ -106,4 +106,4 @@ streamlit run app.py
 
 ## 📚 Part of
 
-This project is part of my [100 Days of ML Challenge]https://github.com/abhishekagrawal14/100-days-of-ml-challenge.git
+This project is part of my https://github.com/abhishekagrawal14/100-days-of-ml-challenge.git 
