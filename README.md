@@ -10,6 +10,8 @@ Build strong ML fundamentals and a visible, consistent track record while workin
 
 📅 Progress
 
+# UNSUPERVISED LEARNING .
+
 Day 01 ---
         Topic -> PCA on Fashion MNIST
 
@@ -25,7 +27,7 @@ Day 04 ---
 Day 05 --- 
         Topic -> Implemented DBSCAN from scratch and practised on get moons datset.
 
-# UNSUPERVISED LEARNING COMPLETES HERE .  WE WILL START MODEL EVAULATION FROM DAY 06 .
+#  MODEL EVAULATION .
 
 Day 06 --- 
         Topic -> studied regression metrics like MAE , MSE , RMSE , R2 SCORE and ADJUSTED R2 SCORE .
@@ -49,6 +51,15 @@ Day 09---
         Topic -> streamlit practise completed basics , layouts , widgest and more
 
 
+
+# DEEP LEARNING 
+
+A.N.N ->>>>>>>>
+
+Day 11 ----
+        Topic -> perceptron practise with sklearn and perceptron code from scrath using perceptron trick.
+
+
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 09
+Last updated: Day 11
