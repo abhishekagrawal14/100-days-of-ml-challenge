@@ -59,7 +59,10 @@ A.N.N ->>>>>>>>
 Day 11 ----
         Topic -> perceptron practise with sklearn and perceptron code from scrath using perceptron trick.
 
+Day 12 ----
+        Topic -> perceptron code from scrath using perceptron hinge loss function.
+
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 11
+Last updated: Day 12
