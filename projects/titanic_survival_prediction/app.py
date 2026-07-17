@@ -19,14 +19,15 @@ with open(audio_path, "rb") as audio_file:
 
 st.audio(audio_bytes, format="audio/mp3")
 
-st.audio(audio_bytes, format="audio/mp3")
+
 
 st.subheader("Can You Beat History?")
 
 
 
 st.markdown("═══════════════════════════════")
-st.image("assets/titanic.gif" , width=1000)
+image_path = os.path.join(BASE_DIR, "assets", "titanic.gif")
+st.image(image_path , width=1000)
 st.markdown("═══════════════════════════════")
 
 # st.image('https://wallpapercat.com/w/full/d/1/a/303670-3840x2160-desktop-4k-titanic-background-photo.jpg' ,use_container_width=True)
