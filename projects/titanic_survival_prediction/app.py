@@ -9,8 +9,15 @@ st.title("🚢 RMS TITANIC")
 st.caption("🎬 Best experienced with the Titanic theme playing in the background.")
 
 # for audio 
-with open("assets/titanic_theme.mp3", "rb") as audio_file:
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+audio_path = os.path.join(BASE_DIR, "assets", "titanic_theme.mp3")
+
+with open(audio_path, "rb") as audio_file:
     audio_bytes = audio_file.read()
+
+st.audio(audio_bytes, format="audio/mp3")
 
 st.audio(audio_bytes, format="audio/mp3")
 
