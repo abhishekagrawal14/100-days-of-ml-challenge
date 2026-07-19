@@ -70,7 +70,10 @@ Day 12 ----
         Topic -> perceptron code from scrath using perceptron hinge loss function.
 
 Day 14 ----
-        Topic -> practised ANN code for the first time with customer churn dataset
+        Topic -> practised ANN code for the first time with customer churn dataset and mnist dataset
+
+Day 14 ----
+        Topic -> practised ANN code for regression problem in graduate admission dataset.
 
 
 ⭐ Feel free to fork and start your own challenge.
