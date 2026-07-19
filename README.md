@@ -72,10 +72,10 @@ Day 12 ----
 Day 14 ----
         Topic -> practised ANN code for the first time with customer churn dataset and mnist dataset
 
-Day 14 ----
+Day 15 ----
         Topic -> practised ANN code for regression problem in graduate admission dataset.
 
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 14
+Last updated: Day 15
