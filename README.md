@@ -75,7 +75,10 @@ Day 14 ----
 Day 15 ----
         Topic -> practised ANN code for regression problem in graduate admission dataset.
 
+Day 16 ----
+        Topic -> practised backpropagation from scratch for both regression and classification .
+
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 15
+Last updated: Day 16
