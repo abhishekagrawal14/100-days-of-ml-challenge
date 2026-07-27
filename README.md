@@ -78,7 +78,9 @@ Day 15 ----
 Day 16 ----
         Topic -> practised backpropagation from scratch for both regression and classification .
 
+Day 16 ----
+        Topic -> understood vanishing gradient problem and how to tackle it .
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 16
+Last updated: Day 17
