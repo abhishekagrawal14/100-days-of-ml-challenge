@@ -81,6 +81,9 @@ Day 16 ----
 Day 17 ----
         Topic -> understood vanishing gradient problem and how to tackle it .
 
+Day 18 ----
+        Topic -> understood early stopping and implemented it .
+
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 17
+Last updated: Day 18
