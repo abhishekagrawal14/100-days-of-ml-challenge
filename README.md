@@ -82,8 +82,12 @@ Day 17 ----
         Topic -> understood vanishing gradient problem and how to tackle it .
 
 Day 18 ----
-        Topic -> understood early stopping and implemented it .
+        Topic -> understood early stopping and implemented it .\
+
+
+Day 19 ----
+        Topic -> understood input normalization and implemented it .
 
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 18
+Last updated: Day 19
