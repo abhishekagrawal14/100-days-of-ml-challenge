@@ -88,6 +88,9 @@ Day 18 ----
 Day 19 ----
         Topic -> understood input normalization and implemented it .
 
+Day 20 ----
+        Topic -> understood dropout and implemented it .
+
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 19
+Last updated: Day 20
