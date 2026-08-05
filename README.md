@@ -91,6 +91,9 @@ Day 19 ----
 Day 20 ----
         Topic -> understood dropout and implemented it .
 
+Day 21 ----
+        Topic -> understood regularization on make_moons dataset and implemented it .
+
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 20
+Last updated: Day 21
