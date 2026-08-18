@@ -94,6 +94,9 @@ Day 20 ----
 Day 21 ----
         Topic -> understood regularization on make_moons dataset and implemented it .
 
+Day 22 ----
+        Topic -> weight initilization techniques practice and implemented  .
+
 ⭐ Feel free to fork and start your own challenge.
 
-Last updated: Day 21
+Last updated: Day 22
